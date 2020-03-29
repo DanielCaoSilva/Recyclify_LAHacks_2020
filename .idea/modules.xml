@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CurrentPlaceDetailsOnMap.iml" filepath="$PROJECT_DIR$/CurrentPlaceDetailsOnMap.iml" group="CurrentPlaceDetailsOnMap" />
+      <module fileurl="file://$PROJECT_DIR$/LAHacks-master.iml" filepath="$PROJECT_DIR$/LAHacks-master.iml" group="LAHacks-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/LAHacks-master-app.iml" filepath="$PROJECT_DIR$/app/LAHacks-master-app.iml" group="LAHacks-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/LAHacks_2020-master.iml" filepath="$PROJECT_DIR$/LAHacks_2020-master.iml" group="LAHacks_2020-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/LAHacks_2020-master-app.iml" filepath="$PROJECT_DIR$/app/LAHacks_2020-master-app.iml" group="LAHacks_2020-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/Recyclify-NEW-NEW.iml" filepath="$PROJECT_DIR$/Recyclify-NEW-NEW.iml" group="Recyclify-NEW-NEW" />
+      <module fileurl="file://$PROJECT_DIR$/app/Recyclify-NEW-NEW-app.iml" filepath="$PROJECT_DIR$/app/Recyclify-NEW-NEW-app.iml" group="Recyclify-NEW-NEW/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CurrentPlaceDetailsOnMap/app" />
+    </modules>
+  </component>
+</project>
